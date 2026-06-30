@@ -14,17 +14,18 @@ Beirut, Lebanon, October 2009
 
 Original project authors:
 
-- Ryan Maher Hamze
-- Krayem Ahmad Ajjawi
+- Ryan Hamze
+- Krayem Ajjawi
 - Meriam Hawwa
 
 Related ebook:
 
 **Design, Implementation and Simulation of Fiber Optics Modulation Using MATLAB**  
 ASIN: `B077Z6FMF3`  
+Link: [https://www.amazon.com/Design-Implementation-Simulation-Optics-Modulation-ebook](https://www.amazon.com/Design-Implementation-Simulation-Optics-Modulation-ebook/dp/B077Z6FMF3?ref_=ast_author_dp&th=1&psc=1)
 2nd edition, published December 6, 2017
 
-The original MATLAB code, report structure, simulation approach, and educational framing are credited to the three original authors above. The Python package implementation and current open-source maintenance are led by **Ryan Maher Hamze**. Contact/reference: [ryanhamze.com](https://ryanhamze.com).
+The original MATLAB code, report structure, simulation approach, and educational framing are credited to the three original authors above. The Python package implementation and current open-source maintenance are led by **Ryan Hamze**. Contact/reference: [ryanhamze.com](https://ryanhamze.com).
 
 ## Planned Features
 
