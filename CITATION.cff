@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the original thesis project and this Python package."
+title: "Fiber Optics Modulation Using Coupled Nonlinear Schrodinger Equation"
+type: software
+authors:
+  - family-names: Hamze
+    given-names: Ryan Maher
+repository-code: "https://github.com/RyanHamze/cnlse"
+url: "https://ryanhamze.com"
+license: MIT
+date-released: 2026-06-30
+references:
+  - type: thesis
+    title: "Design and Implementation of Fiber Optics Using MATLAB"
+    authors:
+      - family-names: Hamze
+        given-names: Ryan Maher
+      - family-names: Ajjawi
+        given-names: Krayem Ahmad
+      - family-names: Hawwa
+        given-names: Meriam
+    institution:
+      name: "Arts, Sciences, and Technology University in Lebanon"
+    date-published: 2009-10
+  - type: book
+    title: "Design, Implementation and Simulation of Fiber Optics Modulation Using MATLAB"
+    authors:
+      - family-names: Hamze
+        given-names: Ryan Maher
+      - family-names: Ajjawi
+        given-names: Krayem Ahmad
+      - family-names: Hawwa
+        given-names: Meriam
+    identifiers:
+      - type: asin
+        value: B077Z6FMF3
+    date-published: 2017-12-06
