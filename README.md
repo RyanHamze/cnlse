@@ -70,6 +70,12 @@ Run the local tool:
 streamlit run app.py
 ```
 
+For Streamlit Community Cloud, deploy:
+
+- Repository: `RyanHamze/cnlse`
+- Branch: `main`
+- Main file path: `streamlit_app.py`
+
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE).

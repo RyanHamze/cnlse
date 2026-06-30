@@ -1,0 +1,4 @@
+-e .
+streamlit>=1.36
+numpy>=1.24
+matplotlib>=3.7

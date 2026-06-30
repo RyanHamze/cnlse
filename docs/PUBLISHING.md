@@ -47,3 +47,13 @@ cnlse-example
 - Primary author/maintainer: Ryan Maher Hamze
 - Original 2009 MATLAB project authors: Ryan Maher Hamze, Krayem Ahmad Ajjawi, Meriam Hawwa
 - Related ebook ASIN: `B077Z6FMF3`
+
+## Streamlit Community Cloud
+
+Deploy from:
+
+- Repository: `RyanHamze/cnlse`
+- Branch: `main`
+- Main file path: `streamlit_app.py`
+
+The root `requirements.txt` installs the local package plus Streamlit app dependencies.
